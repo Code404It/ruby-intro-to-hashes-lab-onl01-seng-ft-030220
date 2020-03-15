@@ -37,9 +37,8 @@ end
         :three_pieces_owned => 100,
         :four_pieces_owned => 200
       }
-    
-  end
-end
+    end
+
     
     def monopoly_with_fourth_tier
       monopoly =  {
